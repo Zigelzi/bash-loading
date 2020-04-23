@@ -13,6 +13,7 @@ alias gs="git status"
 alias ga="git add -A"
 alias gsa="git add -A && git status"
 
+
 #-----------------------#
 #     DOCKER            #
 #-----------------------#
