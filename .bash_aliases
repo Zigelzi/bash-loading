@@ -26,3 +26,5 @@ dri() { docker rmi $(docker images -q); }
 alias doco=docker-compose
 alias dw="docker-compose up -d --build"
 alias ds="docker-compose down"
+alias dws="docker-compose -f docker-compose.stage.yml up -d --build"
+alias dss="docker-compose -f docker-compose.stage.yml down"
