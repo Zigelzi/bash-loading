@@ -13,6 +13,8 @@ alias gs="git status"
 alias ga="git add -A"
 alias gsa="git add -A && git status"
 
+alias upd="sudo apt-get update && sudo apt-get upgrade"
+
 #-----------------------#
 #     JavaScrip Dev     #
 #-----------------------#
