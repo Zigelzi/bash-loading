@@ -8,11 +8,12 @@ alias python=python3
 alias venv="source venv/bin/activate"
 alias rz="source ~/.zshrc"
 
+alias unity="cd /f/Unity/Games"
+
 # Git
 alias gs="git status"
 alias ga="git add -A"
 alias gsa="git add -A && git status"
-
 
 #-----------------------#
 #     DOCKER            #

@@ -2,7 +2,7 @@
 
 # Folder path to this current folder that needs to be added to .zshrc / .bashrc so 
 # folder contents are loaded automatically
-UTILITIES_FOLDER=~/path-to-this-folder
+UTILITIES_FOLDER=/mnt/d/Configs/bash-loading
 
 if [[ -d $UTILITIES_FOLDER ]]; then
   echo "Loading configs from $UTILITIES_FOLDER ..."
