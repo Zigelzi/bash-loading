@@ -3,7 +3,7 @@
 #-----------------------#
 #     GENERAL           #
 #-----------------------#
-alias python=python3
+alias python=python3.9
 alias pip=pip3
 
 alias venv="source venv/bin/activate"
