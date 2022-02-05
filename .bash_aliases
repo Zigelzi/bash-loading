@@ -9,6 +9,8 @@ alias venv="source venv/bin/activate"
 alias rz="source ~/.zshrc"
 
 alias unity="cd /f/Unity/Games"
+alias blend="cd /f/Blender/Models"
+alias lumi="cd /f/Unity/Games/Lumi"
 
 # Git
 alias gs="git status"
