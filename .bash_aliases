@@ -12,7 +12,7 @@ alias rz="source ~/.zshrc"
 # Game Development
 alias unity="cd /f/Unity/Games"
 alias blend="cd /f/Blender/Models"
-alias lumi="cd /f/Unity/Games/Lumi"
+alias lumi="cd /f/Unity/Games/Lumi_RPG"
 
 # Git
 alias gs="git status"
