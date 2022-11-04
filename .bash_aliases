@@ -25,7 +25,6 @@ alias upd="sudo apt-get update && sudo apt-get upgrade"
 #     JavaScrip Dev     #
 #-----------------------#
 
-alias gdev="gridsome develop"
 
 #-----------------------#
 #     DOCKER            #
