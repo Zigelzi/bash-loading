@@ -4,7 +4,7 @@
 #     GENERAL           #
 #-----------------------#
 alias python=python3.9
-alias pip=pip3
+alias pip="python3.9 -m pip"
 
 alias venv="source venv/bin/activate"
 alias rz="source ~/.zshrc"
