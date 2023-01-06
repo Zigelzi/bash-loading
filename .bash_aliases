@@ -18,6 +18,7 @@ alias lumi="cd /f/Unity/Games/Lumi_RPG"
 alias gs="git status"
 alias ga="git add -A"
 alias gsa="git add -A && git status"
+alias gcm="git commit -m"
 
 alias upd="sudo apt-get update && sudo apt-get upgrade"
 
