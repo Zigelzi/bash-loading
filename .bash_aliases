@@ -25,7 +25,8 @@ alias upd="sudo apt-get update && sudo apt-get upgrade"
 #-----------------------#
 #     JavaScrip Dev     #
 #-----------------------#
-alias ndev="npm run dev -- --open"
+alias ndev="npm run dev"
+alias ndevo="npm run dev -- --open"
 
 #-----------------------#
 #     DOCKER            #
