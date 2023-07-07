@@ -23,6 +23,8 @@ alias gcm="git commit -m"
 alias gl="git pull"
 alias gp="git push"
 alias gcb="git checkout -b"
+alias gc="git checkout"
+alias gm="git merge"
 alias gbd="git branch -d"
 alias gbrr="git push -d origin"
 
