@@ -20,6 +20,11 @@ alias gs="git status"
 alias ga="git add -A"
 alias gsa="git add -A && git status"
 alias gcm="git commit -m"
+alias gl="git pull"
+alias gp="git push"
+alias gcb="git checkout -b"
+alias gbd="git branch -d"
+alias gbrr="git push -d origin"
 
 alias upd="sudo apt-get update && sudo apt-get upgrade"
 
