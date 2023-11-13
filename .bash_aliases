@@ -14,7 +14,6 @@ alias unity="cd /f/Unity/Games"
 alias blend="cd /f/Blender/Models"
 alias lumi="cd /f/Unity/Games/Lumi_RPG"
 alias oiva="cd /f/Unity/Games/Oiva"
-<<<<<<< Updated upstream
 alias leikki="cd /root/projektit/leikkisa"
 alias oir="cd /f/Unity/Games/Oiva_Runner"
 
