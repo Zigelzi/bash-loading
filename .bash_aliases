@@ -15,6 +15,7 @@ alias blend="cd /f/Blender/Models"
 alias lumi="cd /f/Unity/Games/Lumi_RPG"
 alias oiva="cd /f/Unity/Games/Oiva"
 alias leikki="cd /root/projektit/leikkisa"
+alias oir="cd /f/Unity/Games/Oiva_Runner"
 
 # Git
 alias gs="git status"
